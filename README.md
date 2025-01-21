@@ -45,3 +45,5 @@ Pastikan Anda telah menginstal:
 - Pastikan file PDF dan wordlist tersedia di lokasi yang benar.
 - Wordlist default adalah `rockyou.txt`, tetapi Anda dapat mengganti dengan wordlist lain sesuai kebutuhan.
 - Pastikan **pdfcrack** sudah terinstal sebelum menjalankan script.
+
+### Dikembangkan oleh: **[zfernm](https://www.linkedin.com/in/samuel-hamonangan-s-099604255/)**
